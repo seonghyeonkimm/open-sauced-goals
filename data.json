@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "facebook/react",
+    "stargazers_count": 189344,
+    "open_issues_count": 959,
+    "forks_count": 39042
+  },
+  {
+    "full_name": "vercel/next.js",
+    "stargazers_count": 87868,
+    "open_issues_count": 1223,
+    "forks_count": 18741
+  },
+  {
     "full_name": "remix-run/react-router",
     "stargazers_count": 47181,
     "open_issues_count": 83,
