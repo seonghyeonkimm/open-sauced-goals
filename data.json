@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "petyosi/react-virtuoso",
+    "stargazers_count": 2443,
+    "open_issues_count": 32,
+    "forks_count": 171
+  },
+  {
     "full_name": "react-hook-form/react-hook-form",
     "stargazers_count": 28702,
     "open_issues_count": 6,
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 189344,
+    "stargazers_count": 189345,
     "open_issues_count": 959,
     "forks_count": 39042
   },
