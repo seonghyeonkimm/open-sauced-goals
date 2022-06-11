@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "tailwindlabs/tailwindcss",
+    "stargazers_count": 57639,
+    "open_issues_count": 22,
+    "forks_count": 2880
+  },
+  {
     "full_name": "mswjs/msw",
     "stargazers_count": 9745,
     "open_issues_count": 46,
@@ -27,7 +33,7 @@
     "full_name": "facebook/react",
     "stargazers_count": 189345,
     "open_issues_count": 959,
-    "forks_count": 39042
+    "forks_count": 39043
   },
   {
     "full_name": "vercel/next.js",
