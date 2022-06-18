@@ -3,12 +3,12 @@
     "full_name": "all-contributors/all-contributors",
     "stargazers_count": 6330,
     "open_issues_count": 96,
-    "forks_count": 1555
+    "forks_count": 1556
   },
   {
     "full_name": "load1n9/caviar",
-    "stargazers_count": 69,
-    "open_issues_count": 2,
+    "stargazers_count": 70,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "remix-run/react-router",
-    "stargazers_count": 47271,
+    "stargazers_count": 47278,
     "open_issues_count": 94,
-    "forks_count": 9206
+    "forks_count": 9210
   },
   {
     "full_name": "saas-js/saas-ui",
@@ -43,39 +43,39 @@
   },
   {
     "full_name": "RevereCRE/relay-nextjs",
-    "stargazers_count": 164,
+    "stargazers_count": 165,
     "open_issues_count": 7,
     "forks_count": 21
   },
   {
     "full_name": "algolia/docsearch",
-    "stargazers_count": 2698,
-    "open_issues_count": 79,
-    "forks_count": 246
+    "stargazers_count": 2702,
+    "open_issues_count": 81,
+    "forks_count": 247
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 20418,
-    "open_issues_count": 262,
-    "forks_count": 959
+    "stargazers_count": 20426,
+    "open_issues_count": 263,
+    "forks_count": 961
   },
   {
     "full_name": "nvh95/jest-preview",
-    "stargazers_count": 1599,
-    "open_issues_count": 28,
+    "stargazers_count": 1609,
+    "open_issues_count": 25,
     "forks_count": 24
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 3776,
-    "open_issues_count": 57,
-    "forks_count": 137
+    "stargazers_count": 3794,
+    "open_issues_count": 53,
+    "forks_count": 138
   },
   {
     "full_name": "ChainSafe/web3.js",
-    "stargazers_count": 15326,
-    "open_issues_count": 170,
-    "forks_count": 4072
+    "stargazers_count": 15337,
+    "open_issues_count": 175,
+    "forks_count": 4074
   },
   {
     "full_name": "junh0328/prepare_frontend_interview",
@@ -91,69 +91,69 @@
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 42919,
-    "open_issues_count": 187,
-    "forks_count": 1053
+    "stargazers_count": 43242,
+    "open_issues_count": 186,
+    "forks_count": 1061
   },
   {
     "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 2822,
-    "open_issues_count": 200,
-    "forks_count": 2742
+    "stargazers_count": 2827,
+    "open_issues_count": 196,
+    "forks_count": 2745
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 583,
+    "stargazers_count": 584,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 2800,
+    "stargazers_count": 2808,
     "open_issues_count": 8,
-    "forks_count": 705
+    "forks_count": 704
   },
   {
     "full_name": "giscus/giscus",
-    "stargazers_count": 2320,
-    "open_issues_count": 35,
+    "stargazers_count": 2323,
+    "open_issues_count": 39,
     "forks_count": 103
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 4730,
-    "open_issues_count": 65,
-    "forks_count": 360
+    "stargazers_count": 4732,
+    "open_issues_count": 66,
+    "forks_count": 361
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 17148,
-    "open_issues_count": 1077,
-    "forks_count": 4070
+    "stargazers_count": 17157,
+    "open_issues_count": 1075,
+    "forks_count": 4076
   },
   {
     "full_name": "ethereum/go-ethereum",
-    "stargazers_count": 37933,
-    "open_issues_count": 330,
-    "forks_count": 14172
+    "stargazers_count": 37951,
+    "open_issues_count": 336,
+    "forks_count": 14184
   },
   {
     "full_name": "trufflesuite/truffle",
-    "stargazers_count": 13258,
+    "stargazers_count": 13260,
     "open_issues_count": 518,
     "forks_count": 2195
   },
   {
     "full_name": "framer/motion",
-    "stargazers_count": 14920,
-    "open_issues_count": 174,
-    "forks_count": 458
+    "stargazers_count": 14932,
+    "open_issues_count": 177,
+    "forks_count": 459
   },
   {
     "full_name": "plouc/nivo",
-    "stargazers_count": 10208,
-    "open_issues_count": 122,
-    "forks_count": 829
+    "stargazers_count": 10210,
+    "open_issues_count": 117,
+    "forks_count": 828
   },
   {
     "full_name": "blocks/blocks",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "octokit/octokit.js",
-    "stargazers_count": 5512,
+    "stargazers_count": 5513,
     "open_issues_count": 16,
-    "forks_count": 1016
+    "forks_count": 1017
   }
 ]
