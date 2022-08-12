@@ -1,105 +1,105 @@
 [
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 18616,
-    "open_issues_count": 306,
-    "forks_count": 1473
+    "stargazers_count": 18678,
+    "open_issues_count": 307,
+    "forks_count": 1476
   },
   {
     "full_name": "millsp/ts-toolbelt",
-    "stargazers_count": 4526,
+    "stargazers_count": 4547,
     "open_issues_count": 49,
-    "forks_count": 105
+    "forks_count": 104
   },
   {
     "full_name": "postcss/postcss",
-    "stargazers_count": 26559,
-    "open_issues_count": 12,
-    "forks_count": 1518
+    "stargazers_count": 26572,
+    "open_issues_count": 13,
+    "forks_count": 1521
   },
   {
     "full_name": "facebook/jest",
-    "stargazers_count": 39789,
-    "open_issues_count": 1111,
-    "forks_count": 5968
+    "stargazers_count": 39823,
+    "open_issues_count": 1114,
+    "forks_count": 5976
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 21034,
-    "open_issues_count": 112,
-    "forks_count": 3790
+    "stargazers_count": 21044,
+    "open_issues_count": 106,
+    "forks_count": 3794
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 39854,
-    "open_issues_count": 530,
-    "forks_count": 2014
+    "stargazers_count": 39895,
+    "open_issues_count": 532,
+    "forks_count": 2016
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 2059,
+    "stargazers_count": 2067,
     "open_issues_count": 40,
     "forks_count": 160
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 29126,
-    "open_issues_count": 62,
-    "forks_count": 1706
+    "stargazers_count": 29182,
+    "open_issues_count": 53,
+    "forks_count": 1717
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 73225,
-    "open_issues_count": 1969,
-    "forks_count": 7590
+    "stargazers_count": 73312,
+    "open_issues_count": 1973,
+    "forks_count": 7607
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 59526,
-    "open_issues_count": 12,
-    "forks_count": 2994
+    "stargazers_count": 59599,
+    "open_issues_count": 14,
+    "forks_count": 2992
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 10153,
+    "stargazers_count": 10171,
     "open_issues_count": 56,
-    "forks_count": 308
+    "forks_count": 309
   },
   {
     "full_name": "petyosi/react-virtuoso",
-    "stargazers_count": 2710,
-    "open_issues_count": 29,
-    "forks_count": 182
+    "stargazers_count": 2721,
+    "open_issues_count": 33,
+    "forks_count": 184
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 29851,
-    "open_issues_count": 7,
-    "forks_count": 1454
+    "stargazers_count": 29913,
+    "open_issues_count": 6,
+    "forks_count": 1457
   },
   {
     "full_name": "immerjs/immer",
-    "stargazers_count": 23366,
+    "stargazers_count": 23402,
     "open_issues_count": 54,
-    "forks_count": 754
+    "forks_count": 757
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 192903,
-    "open_issues_count": 1087,
-    "forks_count": 39836
+    "stargazers_count": 193067,
+    "open_issues_count": 1094,
+    "forks_count": 39876
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 90785,
-    "open_issues_count": 1262,
-    "forks_count": 19642
+    "stargazers_count": 90951,
+    "open_issues_count": 1259,
+    "forks_count": 19692
   },
   {
     "full_name": "remix-run/react-router",
-    "stargazers_count": 47706,
-    "open_issues_count": 91,
-    "forks_count": 9300
+    "stargazers_count": 47743,
+    "open_issues_count": 90,
+    "forks_count": 9309
   },
   {
     "full_name": "vercel/nextgram",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 746,
+    "stargazers_count": 748,
     "open_issues_count": 16,
-    "forks_count": 343
+    "forks_count": 347
   }
 ]
