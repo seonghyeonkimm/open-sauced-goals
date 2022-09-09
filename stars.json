@@ -1,33 +1,33 @@
 [
   {
     "full_name": "apple/swift-book",
-    "stargazers_count": 1094,
+    "stargazers_count": 1155,
     "open_issues_count": 15,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "graphql/graphql-relay-js",
-    "stargazers_count": 1483,
+    "stargazers_count": 1484,
     "open_issues_count": 24,
     "forks_count": 186
   },
   {
     "full_name": "graphql/graphql-js",
-    "stargazers_count": 19017,
-    "open_issues_count": 202,
-    "forks_count": 2025
+    "stargazers_count": 19025,
+    "open_issues_count": 206,
+    "forks_count": 2026
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 203,
-    "open_issues_count": 3,
-    "forks_count": 5
+    "stargazers_count": 208,
+    "open_issues_count": 4,
+    "forks_count": 4
   },
   {
     "full_name": "facebook/hermes",
-    "stargazers_count": 7444,
-    "open_issues_count": 128,
-    "forks_count": 453
+    "stargazers_count": 7457,
+    "open_issues_count": 127,
+    "forks_count": 454
   },
   {
     "full_name": "JaeSeoKim/react-kakao-maps-sdk",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 3839,
+    "stargazers_count": 3915,
     "open_issues_count": 20,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "daangn/codepocket",
-    "stargazers_count": 44,
-    "open_issues_count": 16,
+    "stargazers_count": 45,
+    "open_issues_count": 17,
     "forks_count": 1
   },
   {
     "full_name": "radix-ui/design-system",
-    "stargazers_count": 1525,
+    "stargazers_count": 1535,
     "open_issues_count": 12,
-    "forks_count": 122
+    "forks_count": 123
   },
   {
     "full_name": "zeakd/react-naver-maps",
@@ -61,57 +61,57 @@
   },
   {
     "full_name": "swup/swup",
-    "stargazers_count": 3571,
+    "stargazers_count": 3574,
     "open_issues_count": 14,
     "forks_count": 186
   },
   {
     "full_name": "ai/size-limit",
-    "stargazers_count": 5463,
+    "stargazers_count": 5473,
     "open_issues_count": 21,
-    "forks_count": 1580
+    "forks_count": 1587
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 1316,
-    "open_issues_count": 30,
+    "stargazers_count": 1321,
+    "open_issues_count": 29,
     "forks_count": 129
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 195366,
+    "stargazers_count": 195814,
     "open_issues_count": 328,
-    "forks_count": 35239
+    "forks_count": 35310
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 8668,
+    "stargazers_count": 8689,
     "open_issues_count": 88,
     "forks_count": 248
   },
   {
     "full_name": "mdn/serviceworker-cookbook",
-    "stargazers_count": 2465,
+    "stargazers_count": 2467,
     "open_issues_count": 55,
     "forks_count": 289
   },
   {
     "full_name": "tabler/tabler-react",
-    "stargazers_count": 2045,
+    "stargazers_count": 2046,
     "open_issues_count": 78,
     "forks_count": 492
   },
   {
     "full_name": "acdlite/react-fiber-architecture",
-    "stargazers_count": 9626,
+    "stargazers_count": 9631,
     "open_issues_count": 30,
     "forks_count": 376
   },
   {
     "full_name": "rjsf-team/react-jsonschema-form",
-    "stargazers_count": 11831,
-    "open_issues_count": 415,
-    "forks_count": 1947
+    "stargazers_count": 11850,
+    "open_issues_count": 402,
+    "forks_count": 1949
   },
   {
     "full_name": "siavashg87/json-joi-converter",
@@ -127,51 +127,51 @@
   },
   {
     "full_name": "lukeed/clsx",
-    "stargazers_count": 3622,
+    "stargazers_count": 3636,
     "open_issues_count": 4,
-    "forks_count": 61
+    "forks_count": 60
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 9158,
-    "open_issues_count": 220,
-    "forks_count": 557
+    "stargazers_count": 9226,
+    "open_issues_count": 208,
+    "forks_count": 569
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 1931,
+    "stargazers_count": 1942,
     "open_issues_count": 3,
     "forks_count": 164
   },
   {
     "full_name": "naver/billboard.js",
-    "stargazers_count": 5286,
+    "stargazers_count": 5291,
     "open_issues_count": 144,
     "forks_count": 340
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 24803,
+    "stargazers_count": 24834,
     "open_issues_count": 53,
     "forks_count": 1823
   },
   {
     "full_name": "rsuite/rsuite",
-    "stargazers_count": 7039,
-    "open_issues_count": 156,
-    "forks_count": 808
+    "stargazers_count": 7047,
+    "open_issues_count": 149,
+    "forks_count": 810
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 33509,
-    "open_issues_count": 376,
-    "forks_count": 775
+    "stargazers_count": 33649,
+    "open_issues_count": 374,
+    "forks_count": 779
   },
   {
     "full_name": "Budibase/budibase",
-    "stargazers_count": 14803,
-    "open_issues_count": 737,
-    "forks_count": 853
+    "stargazers_count": 14834,
+    "open_issues_count": 718,
+    "forks_count": 855
   },
   {
     "full_name": "google/wireit",
