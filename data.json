@@ -1,116 +1,116 @@
 [
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 19373,
-    "open_issues_count": 311,
-    "forks_count": 1568
+    "stargazers_count": 19421,
+    "open_issues_count": 315,
+    "forks_count": 1575
   },
   {
     "full_name": "millsp/ts-toolbelt",
-    "stargazers_count": 4753,
-    "open_issues_count": 57,
+    "stargazers_count": 4768,
+    "open_issues_count": 58,
     "forks_count": 113
   },
   {
     "full_name": "postcss/postcss",
-    "stargazers_count": 26720,
-    "open_issues_count": 13,
-    "forks_count": 1539
+    "stargazers_count": 26728,
+    "open_issues_count": 14,
+    "forks_count": 1540
   },
   {
     "full_name": "facebook/jest",
-    "stargazers_count": 40246,
-    "open_issues_count": 1063,
-    "forks_count": 6058
+    "stargazers_count": 40334,
+    "open_issues_count": 1044,
+    "forks_count": 6069
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 21350,
-    "open_issues_count": 120,
-    "forks_count": 3869
+    "stargazers_count": 21359,
+    "open_issues_count": 122,
+    "forks_count": 3872
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 40427,
-    "open_issues_count": 561,
-    "forks_count": 2033
+    "stargazers_count": 40460,
+    "open_issues_count": 565,
+    "forks_count": 2037
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 2176,
-    "open_issues_count": 51,
-    "forks_count": 166
+    "stargazers_count": 2184,
+    "open_issues_count": 52,
+    "forks_count": 167
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 29935,
-    "open_issues_count": 30,
-    "forks_count": 1807
+    "stargazers_count": 30002,
+    "open_issues_count": 27,
+    "forks_count": 1812
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 74132,
-    "open_issues_count": 2048,
-    "forks_count": 7746
+    "stargazers_count": 74190,
+    "open_issues_count": 2071,
+    "forks_count": 7758
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 60887,
-    "open_issues_count": 11,
-    "forks_count": 3082
+    "stargazers_count": 60975,
+    "open_issues_count": 7,
+    "forks_count": 3095
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 10487,
-    "open_issues_count": 69,
+    "stargazers_count": 10508,
+    "open_issues_count": 70,
     "forks_count": 331
   },
   {
     "full_name": "petyosi/react-virtuoso",
-    "stargazers_count": 2902,
-    "open_issues_count": 29,
-    "forks_count": 192
+    "stargazers_count": 2912,
+    "open_issues_count": 31,
+    "forks_count": 193
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 30765,
-    "open_issues_count": 13,
-    "forks_count": 1519
+    "stargazers_count": 30819,
+    "open_issues_count": 15,
+    "forks_count": 1522
   },
   {
     "full_name": "immerjs/immer",
-    "stargazers_count": 23689,
+    "stargazers_count": 23710,
     "open_issues_count": 62,
-    "forks_count": 768
+    "forks_count": 769
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 195295,
-    "open_issues_count": 1113,
-    "forks_count": 40430
+    "stargazers_count": 195441,
+    "open_issues_count": 1118,
+    "forks_count": 40472
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 93123,
-    "open_issues_count": 1388,
-    "forks_count": 20406
+    "stargazers_count": 93247,
+    "open_issues_count": 1371,
+    "forks_count": 20458
   },
   {
     "full_name": "remix-run/react-router",
-    "stargazers_count": 48209,
-    "open_issues_count": 104,
-    "forks_count": 9431
+    "stargazers_count": 48243,
+    "open_issues_count": 103,
+    "forks_count": 9440
   },
   {
     "full_name": "vercel/nextgram",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 790,
-    "open_issues_count": 22,
-    "forks_count": 391
+    "stargazers_count": 791,
+    "open_issues_count": 19,
+    "forks_count": 393
   }
 ]
