@@ -1,62 +1,74 @@
 [
   {
+    "full_name": "denoland/fresh",
+    "stargazers_count": 9254,
+    "open_issues_count": 153,
+    "forks_count": 362
+  },
+  {
+    "full_name": "helix-editor/helix",
+    "stargazers_count": 15202,
+    "open_issues_count": 825,
+    "forks_count": 957
+  },
+  {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 1007,
+    "stargazers_count": 1009,
     "open_issues_count": 8,
     "forks_count": 23
   },
   {
     "full_name": "LegendApp/legend-state",
-    "stargazers_count": 701,
-    "open_issues_count": 12,
-    "forks_count": 14
+    "stargazers_count": 718,
+    "open_issues_count": 11,
+    "forks_count": 15
   },
   {
     "full_name": "radix-ui/primitives",
-    "stargazers_count": 6319,
+    "stargazers_count": 6347,
     "open_issues_count": 121,
-    "forks_count": 232
+    "forks_count": 233
   },
   {
     "full_name": "horizon-ui/horizon-ui-chakra",
-    "stargazers_count": 1160,
+    "stargazers_count": 1167,
     "open_issues_count": 4,
-    "forks_count": 118
+    "forks_count": 120
   },
   {
     "full_name": "toss/slash",
-    "stargazers_count": 1407,
-    "open_issues_count": 1,
-    "forks_count": 69
+    "stargazers_count": 1474,
+    "open_issues_count": 3,
+    "forks_count": 73
   },
   {
     "full_name": "naver/egjs-flicking",
     "stargazers_count": 2167,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 111
   },
   {
     "full_name": "h6s-dev/h6s",
-    "stargazers_count": 190,
+    "stargazers_count": 192,
     "open_issues_count": 5,
     "forks_count": 18
   },
   {
     "full_name": "module-federation/nextjs-mf",
-    "stargazers_count": 206,
-    "open_issues_count": 52,
-    "forks_count": 25
+    "stargazers_count": 210,
+    "open_issues_count": 54,
+    "forks_count": 26
   },
   {
     "full_name": "vercel/mongodb-starter",
-    "stargazers_count": 198,
+    "stargazers_count": 200,
     "open_issues_count": 6,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "chakra-ui/zag",
-    "stargazers_count": 1548,
-    "open_issues_count": 7,
+    "stargazers_count": 1556,
+    "open_issues_count": 5,
     "forks_count": 41
   },
   {
@@ -67,39 +79,39 @@
   },
   {
     "full_name": "Rich-Harris/degit",
-    "stargazers_count": 5091,
+    "stargazers_count": 5100,
     "open_issues_count": 73,
     "forks_count": 195
   },
   {
     "full_name": "contra/graphql-helix",
-    "stargazers_count": 788,
+    "stargazers_count": 790,
     "open_issues_count": 40,
     "forks_count": 47
   },
   {
     "full_name": "n1ru4l/envelop",
-    "stargazers_count": 607,
+    "stargazers_count": 610,
     "open_issues_count": 60,
     "forks_count": 66
   },
   {
     "full_name": "Urigo/graphql-mesh",
-    "stargazers_count": 2607,
-    "open_issues_count": 170,
-    "forks_count": 239
+    "stargazers_count": 2615,
+    "open_issues_count": 166,
+    "forks_count": 242
   },
   {
     "full_name": "facebook/memlab",
-    "stargazers_count": 3250,
+    "stargazers_count": 3322,
     "open_issues_count": 9,
-    "forks_count": 72
+    "forks_count": 74
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 252175,
-    "open_issues_count": 250,
-    "forks_count": 51756
+    "stargazers_count": 252439,
+    "open_issues_count": 280,
+    "forks_count": 51891
   },
   {
     "full_name": "0xWOF/deeplink-solution-session-jsconf-2022",
@@ -109,27 +121,27 @@
   },
   {
     "full_name": "pbkit/pbkit",
-    "stargazers_count": 212,
-    "open_issues_count": 26,
-    "forks_count": 17
+    "stargazers_count": 214,
+    "open_issues_count": 29,
+    "forks_count": 18
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 14940,
-    "open_issues_count": 696,
-    "forks_count": 1446
+    "stargazers_count": 14987,
+    "open_issues_count": 720,
+    "forks_count": 1452
   },
   {
     "full_name": "gcanti/fp-ts",
-    "stargazers_count": 8528,
-    "open_issues_count": 153,
-    "forks_count": 457
+    "stargazers_count": 8555,
+    "open_issues_count": 154,
+    "forks_count": 458
   },
   {
     "full_name": "remix-run/examples",
-    "stargazers_count": 111,
-    "open_issues_count": 8,
-    "forks_count": 25
+    "stargazers_count": 117,
+    "open_issues_count": 11,
+    "forks_count": 28
   },
   {
     "full_name": "egoist/kanpai",
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "apple/swift-book",
-    "stargazers_count": 1303,
-    "open_issues_count": 21,
-    "forks_count": 78
+    "stargazers_count": 1308,
+    "open_issues_count": 22,
+    "forks_count": 79
   },
   {
     "full_name": "graphql/graphql-relay-js",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "graphql/graphql-js",
-    "stargazers_count": 19105,
-    "open_issues_count": 199,
-    "forks_count": 2044
+    "stargazers_count": 19114,
+    "open_issues_count": 204,
+    "forks_count": 2045
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 379,
-    "open_issues_count": 4,
-    "forks_count": 16
+    "stargazers_count": 495,
+    "open_issues_count": 10,
+    "forks_count": 25
   },
   {
     "full_name": "facebook/hermes",
-    "stargazers_count": 7510,
-    "open_issues_count": 129,
-    "forks_count": 463
-  },
-  {
-    "full_name": "JaeSeoKim/react-kakao-maps-sdk",
-    "stargazers_count": 131,
-    "open_issues_count": 0,
-    "forks_count": 17
-  },
-  {
-    "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 13726,
-    "open_issues_count": 125,
-    "forks_count": 311
+    "stargazers_count": 7517,
+    "open_issues_count": 132,
+    "forks_count": 465
   }
 ]
