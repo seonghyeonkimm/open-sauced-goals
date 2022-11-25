@@ -1,8 +1,8 @@
 [
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 53828,
-    "open_issues_count": 227,
+    "stargazers_count": 53842,
+    "open_issues_count": 137,
     "forks_count": 10485
   },
   {
@@ -15,11 +15,11 @@
     "full_name": "daangn/stackflow-example-nextjs",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "vite-pwa/vite-plugin-pwa",
-    "stargazers_count": 1576,
+    "stargazers_count": 1590,
     "open_issues_count": 36,
     "forks_count": 130
   },
@@ -37,57 +37,57 @@
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 5900,
+    "stargazers_count": 5935,
     "open_issues_count": 58,
-    "forks_count": 84
+    "forks_count": 83
   },
   {
     "full_name": "denoland/fresh",
-    "stargazers_count": 9450,
+    "stargazers_count": 9463,
     "open_issues_count": 154,
-    "forks_count": 383
+    "forks_count": 386
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 16447,
-    "open_issues_count": 864,
-    "forks_count": 1054
+    "stargazers_count": 16528,
+    "open_issues_count": 872,
+    "forks_count": 1061
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 1041,
-    "open_issues_count": 7,
+    "stargazers_count": 1044,
+    "open_issues_count": 8,
     "forks_count": 25
   },
   {
     "full_name": "LegendApp/legend-state",
-    "stargazers_count": 775,
-    "open_issues_count": 10,
-    "forks_count": 19
+    "stargazers_count": 776,
+    "open_issues_count": 11,
+    "forks_count": 20
   },
   {
     "full_name": "radix-ui/primitives",
-    "stargazers_count": 6680,
-    "open_issues_count": 139,
+    "stargazers_count": 6725,
+    "open_issues_count": 141,
     "forks_count": 248
   },
   {
     "full_name": "horizon-ui/horizon-ui-chakra",
-    "stargazers_count": 1249,
+    "stargazers_count": 1250,
     "open_issues_count": 0,
-    "forks_count": 127
+    "forks_count": 130
   },
   {
     "full_name": "toss/slash",
-    "stargazers_count": 1665,
-    "open_issues_count": 1,
-    "forks_count": 99
+    "stargazers_count": 1679,
+    "open_issues_count": 3,
+    "forks_count": 103
   },
   {
     "full_name": "naver/egjs-flicking",
-    "stargazers_count": 2184,
-    "open_issues_count": 30,
-    "forks_count": 113
+    "stargazers_count": 2185,
+    "open_issues_count": 28,
+    "forks_count": 114
   },
   {
     "full_name": "h6s-dev/h6s",
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "module-federation/nextjs-mf",
-    "stargazers_count": 256,
-    "open_issues_count": 53,
+    "stargazers_count": 262,
+    "open_issues_count": 56,
     "forks_count": 34
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "chakra-ui/zag",
-    "stargazers_count": 1654,
+    "stargazers_count": 1662,
     "open_issues_count": 6,
     "forks_count": 47
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "Rich-Harris/degit",
-    "stargazers_count": 5223,
+    "stargazers_count": 5236,
     "open_issues_count": 74,
     "forks_count": 196
   },
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "n1ru4l/envelop",
-    "stargazers_count": 616,
+    "stargazers_count": 618,
     "open_issues_count": 66,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "Urigo/graphql-mesh",
-    "stargazers_count": 2646,
+    "stargazers_count": 2653,
     "open_issues_count": 176,
-    "forks_count": 243
+    "forks_count": 244
   },
   {
     "full_name": "facebook/memlab",
-    "stargazers_count": 3506,
+    "stargazers_count": 3525,
     "open_issues_count": 10,
     "forks_count": 86
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 256339,
-    "open_issues_count": 56,
-    "forks_count": 52583
+    "stargazers_count": 256706,
+    "open_issues_count": 53,
+    "forks_count": 52641
   },
   {
     "full_name": "0xWOF/deeplink-solution-session-jsconf-2022",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "pbkit/pbkit",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 27,
     "forks_count": 19
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 15405,
-    "open_issues_count": 679,
-    "forks_count": 1510
+    "stargazers_count": 15460,
+    "open_issues_count": 694,
+    "forks_count": 1511
   },
   {
     "full_name": "gcanti/fp-ts",
-    "stargazers_count": 8665,
-    "open_issues_count": 157,
+    "stargazers_count": 8678,
+    "open_issues_count": 159,
     "forks_count": 463
   }
 ]
