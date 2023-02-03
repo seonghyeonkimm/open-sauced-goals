@@ -1,63 +1,69 @@
 [
   {
+    "full_name": "clerkinc/t3-turbo-and-clerk",
+    "stargazers_count": 441,
+    "open_issues_count": 3,
+    "forks_count": 16
+  },
+  {
     "full_name": "tailwindlabs/prettier-plugin-tailwindcss",
-    "stargazers_count": 2012,
-    "open_issues_count": 2,
+    "stargazers_count": 2091,
+    "open_issues_count": 3,
     "forks_count": 43
   },
   {
     "full_name": "microsoft/tsyringe",
-    "stargazers_count": 3817,
-    "open_issues_count": 67,
+    "stargazers_count": 3820,
+    "open_issues_count": 69,
     "forks_count": 133
   },
   {
     "full_name": "shadcn/ui",
-    "stargazers_count": 6826,
-    "open_issues_count": 24,
-    "forks_count": 218
+    "stargazers_count": 7238,
+    "open_issues_count": 25,
+    "forks_count": 233
   },
   {
     "full_name": "benbjohnson/litestream",
-    "stargazers_count": 8011,
+    "stargazers_count": 8027,
     "open_issues_count": 73,
     "forks_count": 167
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 6039,
-    "open_issues_count": 57,
-    "forks_count": 126
+    "stargazers_count": 6055,
+    "open_issues_count": 61,
+    "forks_count": 128
   },
   {
     "full_name": "titicacadev/triple-frontend",
     "stargazers_count": 54,
-    "open_issues_count": 56,
+    "open_issues_count": 61,
     "forks_count": 9
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 3063,
+    "stargazers_count": 3081,
     "open_issues_count": 62,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "remeda/remeda",
-    "stargazers_count": 2511,
+    "stargazers_count": 2520,
     "open_issues_count": 41,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "salesforce/design-system-react",
-    "stargazers_count": 852,
-    "open_issues_count": 151,
-    "forks_count": 381
+    "stargazers_count": 853,
+    "open_issues_count": 152,
+    "forks_count": 382
   },
   {
     "full_name": "vercel/avatar",
-    "stargazers_count": 819,
+    "stargazers_count": 820,
     "open_issues_count": 2,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "zth/relay-examples",
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "blitz-js/superjson",
-    "stargazers_count": 2109,
+    "stargazers_count": 2115,
     "open_issues_count": 18,
     "forks_count": 49
   },
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "macaron-css/macaron",
-    "stargazers_count": 298,
+    "stargazers_count": 353,
     "open_issues_count": 3,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "ab180/gitflow-template",
@@ -91,20 +97,20 @@
   },
   {
     "full_name": "carloscuesta/gitmoji-cli",
-    "stargazers_count": 4070,
-    "open_issues_count": 4,
-    "forks_count": 196
+    "stargazers_count": 4071,
+    "open_issues_count": 5,
+    "forks_count": 198
   },
   {
     "full_name": "sindresorhus/ky",
-    "stargazers_count": 8908,
+    "stargazers_count": 8927,
     "open_issues_count": 40,
     "forks_count": 303
   },
   {
     "full_name": "iway1/react-ts-form",
-    "stargazers_count": 1662,
-    "open_issues_count": 7,
+    "stargazers_count": 1681,
+    "open_issues_count": 8,
     "forks_count": 21
   },
   {
@@ -115,45 +121,45 @@
   },
   {
     "full_name": "salesforce-ux/design-system",
-    "stargazers_count": 3369,
-    "open_issues_count": 22,
-    "forks_count": 791
+    "stargazers_count": 3371,
+    "open_issues_count": 23,
+    "forks_count": 792
   },
   {
     "full_name": "sturobson/Awesome-Design-Tokens",
-    "stargazers_count": 872,
+    "stargazers_count": 874,
     "open_issues_count": 3,
     "forks_count": 62
   },
   {
     "full_name": "shuding/react-wrap-balancer",
-    "stargazers_count": 2345,
-    "open_issues_count": 5,
-    "forks_count": 34
+    "stargazers_count": 2382,
+    "open_issues_count": 6,
+    "forks_count": 35
   },
   {
     "full_name": "serverless-stack/open-next",
-    "stargazers_count": 914,
+    "stargazers_count": 924,
     "open_issues_count": 15,
     "forks_count": 16
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 19821,
+    "stargazers_count": 19830,
     "open_issues_count": 91,
     "forks_count": 530
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 21156,
-    "open_issues_count": 44,
+    "stargazers_count": 21184,
+    "open_issues_count": 46,
     "forks_count": 1207
   },
   {
     "full_name": "shuding/nextra",
-    "stargazers_count": 5839,
-    "open_issues_count": 121,
-    "forks_count": 798
+    "stargazers_count": 5877,
+    "open_issues_count": 127,
+    "forks_count": 809
   },
   {
     "full_name": "bvaughn/js-search",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 54064,
-    "open_issues_count": 124,
-    "forks_count": 10510
+    "stargazers_count": 54097,
+    "open_issues_count": 125,
+    "forks_count": 10506
   },
   {
     "full_name": "folke/ultra-runner",
-    "stargazers_count": 1122,
+    "stargazers_count": 1124,
     "open_issues_count": 35,
     "forks_count": 28
-  },
-  {
-    "full_name": "daangn/stackflow-example-nextjs",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
