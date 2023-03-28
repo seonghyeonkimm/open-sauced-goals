@@ -1,25 +1,25 @@
 [
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 5803,
-    "open_issues_count": 3,
+    "stargazers_count": 5835,
+    "open_issues_count": 4,
     "forks_count": 159
   },
   {
     "full_name": "formaat-design/community",
     "stargazers_count": 27,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 3
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 31178,
-    "open_issues_count": 1750,
-    "forks_count": 2807
+    "stargazers_count": 31255,
+    "open_issues_count": 1766,
+    "forks_count": 2811
   },
   {
     "full_name": "kach/nearley",
-    "stargazers_count": 3368,
+    "stargazers_count": 3371,
     "open_issues_count": 180,
     "forks_count": 225
   },
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "web-infra-dev/rspack",
-    "stargazers_count": 3641,
-    "open_issues_count": 203,
-    "forks_count": 158
+    "stargazers_count": 3698,
+    "open_issues_count": 213,
+    "forks_count": 160
   },
   {
     "full_name": "acacode/swagger-typescript-api",
-    "stargazers_count": 1797,
+    "stargazers_count": 1808,
     "open_issues_count": 129,
-    "forks_count": 237
+    "forks_count": 236
   },
   {
     "full_name": "iamchanii/storybook-addon-relay",
@@ -49,19 +49,19 @@
   },
   {
     "full_name": "bvaughn/suspense",
-    "stargazers_count": 289,
+    "stargazers_count": 294,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "pubkey/rxdb",
-    "stargazers_count": 19020,
-    "open_issues_count": 10,
+    "stargazers_count": 19031,
+    "open_issues_count": 8,
     "forks_count": 954
   },
   {
     "full_name": "juffalow/react-relay-example",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 4,
     "forks_count": 8
   },
@@ -73,110 +73,110 @@
   },
   {
     "full_name": "remix-run/indie-stack",
-    "stargazers_count": 774,
-    "open_issues_count": 10,
-    "forks_count": 259
+    "stargazers_count": 777,
+    "open_issues_count": 9,
+    "forks_count": 260
   },
   {
     "full_name": "preactjs/signals",
-    "stargazers_count": 1991,
-    "open_issues_count": 52,
+    "stargazers_count": 2005,
+    "open_issues_count": 53,
     "forks_count": 55
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 55718,
-    "open_issues_count": 849,
-    "forks_count": 4378
+    "stargazers_count": 55855,
+    "open_issues_count": 854,
+    "forks_count": 4388
   },
   {
     "full_name": "nestjs/typeorm",
-    "stargazers_count": 1525,
+    "stargazers_count": 1529,
     "open_issues_count": 8,
     "forks_count": 167
   },
   {
     "full_name": "TanStack/bling",
-    "stargazers_count": 931,
+    "stargazers_count": 943,
     "open_issues_count": 5,
     "forks_count": 18
   },
   {
     "full_name": "stevenpetryk/mafs",
-    "stargazers_count": 2821,
+    "stargazers_count": 2824,
     "open_issues_count": 18,
     "forks_count": 52
   },
   {
     "full_name": "rowyio/rowy",
-    "stargazers_count": 4426,
-    "open_issues_count": 55,
-    "forks_count": 314
+    "stargazers_count": 4441,
+    "open_issues_count": 57,
+    "forks_count": 315
   },
   {
     "full_name": "TarikHuber/react-most-wanted",
-    "stargazers_count": 2351,
+    "stargazers_count": 2353,
     "open_issues_count": 12,
-    "forks_count": 456
+    "forks_count": 457
   },
   {
     "full_name": "typeorm/typeorm",
-    "stargazers_count": 30825,
-    "open_issues_count": 1918,
-    "forks_count": 5722
+    "stargazers_count": 30848,
+    "open_issues_count": 1926,
+    "forks_count": 5735
   },
   {
     "full_name": "nextui-org/tailwind-variants",
-    "stargazers_count": 305,
+    "stargazers_count": 315,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 19864,
-    "open_issues_count": 416,
-    "forks_count": 1044
+    "stargazers_count": 19886,
+    "open_issues_count": 417,
+    "forks_count": 1043
   },
   {
     "full_name": "clerkinc/t3-turbo-and-clerk",
-    "stargazers_count": 594,
+    "stargazers_count": 606,
     "open_issues_count": 2,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "tailwindlabs/prettier-plugin-tailwindcss",
-    "stargazers_count": 2396,
+    "stargazers_count": 2416,
     "open_issues_count": 6,
     "forks_count": 53
   },
   {
     "full_name": "microsoft/tsyringe",
-    "stargazers_count": 3950,
-    "open_issues_count": 72,
-    "forks_count": 138
+    "stargazers_count": 3960,
+    "open_issues_count": 73,
+    "forks_count": 139
   },
   {
     "full_name": "shadcn/ui",
-    "stargazers_count": 9569,
-    "open_issues_count": 61,
-    "forks_count": 341
+    "stargazers_count": 9943,
+    "open_issues_count": 63,
+    "forks_count": 344
   },
   {
     "full_name": "benbjohnson/litestream",
-    "stargazers_count": 8275,
-    "open_issues_count": 74,
-    "forks_count": 174
+    "stargazers_count": 8287,
+    "open_issues_count": 75,
+    "forks_count": 175
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 7429,
-    "open_issues_count": 69,
-    "forks_count": 168
+    "stargazers_count": 7525,
+    "open_issues_count": 68,
+    "forks_count": 174
   },
   {
     "full_name": "titicacadev/triple-frontend",
     "stargazers_count": 77,
-    "open_issues_count": 51,
+    "open_issues_count": 54,
     "forks_count": 10
   }
 ]
