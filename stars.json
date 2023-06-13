@@ -1,55 +1,85 @@
 [
   {
+    "full_name": "reactwg/server-components",
+    "stargazers_count": 1050,
+    "open_issues_count": 0,
+    "forks_count": 13
+  },
+  {
+    "full_name": "azat-io/eslint-plugin-perfectionist",
+    "stargazers_count": 501,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "colinhacks/zod",
+    "stargazers_count": 22814,
+    "open_issues_count": 261,
+    "forks_count": 772
+  },
+  {
+    "full_name": "Xiphe/cachified",
+    "stargazers_count": 474,
+    "open_issues_count": 2,
+    "forks_count": 13
+  },
+  {
+    "full_name": "epicweb-dev/epic-stack",
+    "stargazers_count": 1754,
+    "open_issues_count": 13,
+    "forks_count": 82
+  },
+  {
     "full_name": "release-drafter/release-drafter",
-    "stargazers_count": 2879,
+    "stargazers_count": 2887,
     "open_issues_count": 121,
-    "forks_count": 309
+    "forks_count": 310
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 18738,
+    "stargazers_count": 18860,
     "open_issues_count": 43,
-    "forks_count": 1744
+    "forks_count": 1750
   },
   {
     "full_name": "NotJoeMartinez/yt-fts",
-    "stargazers_count": 1213,
+    "stargazers_count": 1225,
     "open_issues_count": 10,
     "forks_count": 42
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 3149,
-    "open_issues_count": 10,
-    "forks_count": 315
+    "stargazers_count": 3305,
+    "open_issues_count": 8,
+    "forks_count": 335
   },
   {
     "full_name": "google/libphonenumber",
-    "stargazers_count": 15076,
+    "stargazers_count": 15082,
     "open_issues_count": 153,
-    "forks_count": 1969
+    "forks_count": 1972
   },
   {
     "full_name": "BearStudio/start-ui-web",
-    "stargazers_count": 1106,
-    "open_issues_count": 38,
-    "forks_count": 104
+    "stargazers_count": 1118,
+    "open_issues_count": 37,
+    "forks_count": 106
   },
   {
     "full_name": "suspensive/react",
-    "stargazers_count": 80,
-    "open_issues_count": 15,
+    "stargazers_count": 83,
+    "open_issues_count": 17,
     "forks_count": 5
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 21262,
-    "open_issues_count": 125,
-    "forks_count": 1452
+    "stargazers_count": 21277,
+    "open_issues_count": 126,
+    "forks_count": 1453
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 11063,
+    "stargazers_count": 11094,
     "open_issues_count": 18,
     "forks_count": 69
   },
@@ -61,7 +91,7 @@
   },
   {
     "full_name": "jherr/portable-react-apps",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 2,
     "forks_count": 8
   },
@@ -79,39 +109,39 @@
   },
   {
     "full_name": "pwa-builder/PWABuilder",
-    "stargazers_count": 1937,
-    "open_issues_count": 201,
+    "stargazers_count": 1945,
+    "open_issues_count": 205,
     "forks_count": 235
   },
   {
     "full_name": "htmlstreamofficial/preline",
-    "stargazers_count": 1773,
-    "open_issues_count": 28,
-    "forks_count": 112
+    "stargazers_count": 1795,
+    "open_issues_count": 23,
+    "forks_count": 114
   },
   {
     "full_name": "cometkim/cometjs",
     "stargazers_count": 57,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 3
   },
   {
     "full_name": "chakra-ui/ark",
-    "stargazers_count": 1259,
-    "open_issues_count": 19,
-    "forks_count": 14
+    "stargazers_count": 1309,
+    "open_issues_count": 21,
+    "forks_count": 17
   },
   {
     "full_name": "amannn/next-intl",
-    "stargazers_count": 695,
-    "open_issues_count": 22,
-    "forks_count": 40
+    "stargazers_count": 706,
+    "open_issues_count": 26,
+    "forks_count": 44
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 7333,
-    "open_issues_count": 23,
-    "forks_count": 210
+    "stargazers_count": 9459,
+    "open_issues_count": 32,
+    "forks_count": 261
   },
   {
     "full_name": "formaat-design/reshaped",
@@ -121,13 +151,13 @@
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 32318,
-    "open_issues_count": 1752,
-    "forks_count": 2899
+    "stargazers_count": 32362,
+    "open_issues_count": 1771,
+    "forks_count": 2910
   },
   {
     "full_name": "kach/nearley",
-    "stargazers_count": 3409,
+    "stargazers_count": 3410,
     "open_issues_count": 184,
     "forks_count": 229
   },
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "web-infra-dev/rspack",
-    "stargazers_count": 4695,
-    "open_issues_count": 205,
-    "forks_count": 223
+    "stargazers_count": 4736,
+    "open_issues_count": 225,
+    "forks_count": 225
   },
   {
     "full_name": "acacode/swagger-typescript-api",
-    "stargazers_count": 2005,
+    "stargazers_count": 2009,
     "open_issues_count": 158,
     "forks_count": 261
-  },
-  {
-    "full_name": "iamchanii/storybook-addon-relay",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "bvaughn/suspense",
-    "stargazers_count": 326,
-    "open_issues_count": 2,
-    "forks_count": 8
-  },
-  {
-    "full_name": "pubkey/rxdb",
-    "stargazers_count": 19275,
-    "open_issues_count": 13,
-    "forks_count": 976
-  },
-  {
-    "full_name": "juffalow/react-relay-example",
-    "stargazers_count": 30,
-    "open_issues_count": 4,
-    "forks_count": 8
-  },
-  {
-    "full_name": "lxsmnsyc/forgetti",
-    "stargazers_count": 250,
-    "open_issues_count": 4,
-    "forks_count": 4
   }
 ]
