@@ -1,8 +1,8 @@
 [
   {
     "full_name": "ericdiviney/react-handbook",
-    "stargazers_count": 87,
-    "open_issues_count": 7,
+    "stargazers_count": 89,
+    "open_issues_count": 5,
     "forks_count": 17
   },
   {
@@ -13,97 +13,97 @@
   },
   {
     "full_name": "release-it/release-it",
-    "stargazers_count": 6613,
-    "open_issues_count": 12,
+    "stargazers_count": 6636,
+    "open_issues_count": 13,
     "forks_count": 516
   },
   {
     "full_name": "reactwg/server-components",
-    "stargazers_count": 1146,
+    "stargazers_count": 1157,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "azat-io/eslint-plugin-perfectionist",
-    "stargazers_count": 646,
-    "open_issues_count": 0,
+    "stargazers_count": 683,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 22971,
-    "open_issues_count": 267,
-    "forks_count": 780
+    "stargazers_count": 23039,
+    "open_issues_count": 277,
+    "forks_count": 781
   },
   {
     "full_name": "Xiphe/cachified",
-    "stargazers_count": 477,
+    "stargazers_count": 479,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "epicweb-dev/epic-stack",
-    "stargazers_count": 1859,
-    "open_issues_count": 12,
-    "forks_count": 88
+    "stargazers_count": 1901,
+    "open_issues_count": 10,
+    "forks_count": 90
   },
   {
     "full_name": "release-drafter/release-drafter",
-    "stargazers_count": 2894,
+    "stargazers_count": 2896,
     "open_issues_count": 121,
     "forks_count": 312
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 18976,
+    "stargazers_count": 19046,
     "open_issues_count": 43,
-    "forks_count": 1762
+    "forks_count": 1767
   },
   {
     "full_name": "NotJoeMartinez/yt-fts",
-    "stargazers_count": 1232,
-    "open_issues_count": 10,
+    "stargazers_count": 1237,
+    "open_issues_count": 11,
     "forks_count": 42
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 3405,
-    "open_issues_count": 9,
-    "forks_count": 370
+    "stargazers_count": 3453,
+    "open_issues_count": 6,
+    "forks_count": 377
   },
   {
     "full_name": "google/libphonenumber",
-    "stargazers_count": 15088,
+    "stargazers_count": 15096,
     "open_issues_count": 154,
     "forks_count": 1972
   },
   {
     "full_name": "BearStudio/start-ui-web",
-    "stargazers_count": 1131,
-    "open_issues_count": 40,
-    "forks_count": 107
+    "stargazers_count": 1139,
+    "open_issues_count": 38,
+    "forks_count": 109
   },
   {
     "full_name": "suspensive/react",
-    "stargazers_count": 88,
-    "open_issues_count": 19,
+    "stargazers_count": 97,
+    "open_issues_count": 18,
     "forks_count": 8
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 21319,
-    "open_issues_count": 126,
+    "stargazers_count": 21336,
+    "open_issues_count": 121,
     "forks_count": 1457
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 11142,
+    "stargazers_count": 11176,
     "open_issues_count": 17,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "woniesong92/talktosql",
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 1,
     "forks_count": 13
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "kentcdodds/babel-plugin-preval",
-    "stargazers_count": 1321,
+    "stargazers_count": 1322,
     "open_issues_count": 10,
     "forks_count": 70
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "pwa-builder/PWABuilder",
-    "stargazers_count": 1956,
-    "open_issues_count": 201,
+    "stargazers_count": 1963,
+    "open_issues_count": 207,
     "forks_count": 236
   },
   {
     "full_name": "htmlstreamofficial/preline",
-    "stargazers_count": 1864,
-    "open_issues_count": 24,
-    "forks_count": 118
+    "stargazers_count": 1874,
+    "open_issues_count": 25,
+    "forks_count": 119
   },
   {
     "full_name": "cometkim/cometjs",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "chakra-ui/ark",
-    "stargazers_count": 1373,
-    "open_issues_count": 27,
-    "forks_count": 18
+    "stargazers_count": 1388,
+    "open_issues_count": 22,
+    "forks_count": 19
   },
   {
     "full_name": "amannn/next-intl",
-    "stargazers_count": 720,
-    "open_issues_count": 20,
-    "forks_count": 46
+    "stargazers_count": 726,
+    "open_issues_count": 17,
+    "forks_count": 47
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 10334,
-    "open_issues_count": 46,
-    "forks_count": 297
+    "stargazers_count": 10541,
+    "open_issues_count": 48,
+    "forks_count": 305
   },
   {
     "full_name": "formaat-design/reshaped",
-    "stargazers_count": 33,
-    "open_issues_count": 15,
+    "stargazers_count": 34,
+    "open_issues_count": 17,
     "forks_count": 2
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 32479,
-    "open_issues_count": 1763,
-    "forks_count": 2921
+    "stargazers_count": 32543,
+    "open_issues_count": 1748,
+    "forks_count": 2933
   },
   {
     "full_name": "kach/nearley",
-    "stargazers_count": 3412,
+    "stargazers_count": 3415,
     "open_issues_count": 184,
-    "forks_count": 229
+    "forks_count": 230
   }
 ]
