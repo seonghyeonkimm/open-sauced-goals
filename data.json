@@ -1,116 +1,116 @@
 [
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 23987,
-    "open_issues_count": 287,
+    "stargazers_count": 24019,
+    "open_issues_count": 275,
     "forks_count": 1974
   },
   {
     "full_name": "millsp/ts-toolbelt",
-    "stargazers_count": 5894,
+    "stargazers_count": 5899,
     "open_issues_count": 67,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "postcss/postcss",
-    "stargazers_count": 27615,
-    "open_issues_count": 17,
-    "forks_count": 1578
+    "stargazers_count": 27621,
+    "open_issues_count": 19,
+    "forks_count": 1579
   },
   {
     "full_name": "jestjs/jest",
-    "stargazers_count": 42245,
-    "open_issues_count": 511,
-    "forks_count": 6387
+    "stargazers_count": 42252,
+    "open_issues_count": 507,
+    "forks_count": 6388
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 23072,
-    "open_issues_count": 119,
-    "forks_count": 4351
+    "stargazers_count": 23093,
+    "open_issues_count": 121,
+    "forks_count": 4357
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 43554,
-    "open_issues_count": 758,
+    "stargazers_count": 43575,
+    "open_issues_count": 761,
     "forks_count": 2202
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 3215,
-    "open_issues_count": 49,
-    "forks_count": 285
+    "stargazers_count": 3228,
+    "open_issues_count": 51,
+    "forks_count": 286
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 35359,
-    "open_issues_count": 65,
-    "forks_count": 2291
+    "stargazers_count": 35420,
+    "open_issues_count": 76,
+    "forks_count": 2299
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 79367,
-    "open_issues_count": 1684,
-    "forks_count": 8553
+    "stargazers_count": 79405,
+    "open_issues_count": 1676,
+    "forks_count": 8557
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 70104,
-    "open_issues_count": 19,
-    "forks_count": 3610
+    "stargazers_count": 70208,
+    "open_issues_count": 20,
+    "forks_count": 3614
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 12707,
-    "open_issues_count": 89,
+    "stargazers_count": 12745,
+    "open_issues_count": 91,
     "forks_count": 401
   },
   {
     "full_name": "petyosi/react-virtuoso",
-    "stargazers_count": 3860,
-    "open_issues_count": 28,
-    "forks_count": 235
+    "stargazers_count": 3873,
+    "open_issues_count": 30,
+    "forks_count": 236
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 35779,
-    "open_issues_count": 15,
-    "forks_count": 1797
+    "stargazers_count": 35838,
+    "open_issues_count": 17,
+    "forks_count": 1803
   },
   {
     "full_name": "immerjs/immer",
-    "stargazers_count": 25566,
-    "open_issues_count": 32,
+    "stargazers_count": 25587,
+    "open_issues_count": 33,
     "forks_count": 839
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 210180,
-    "open_issues_count": 1370,
-    "forks_count": 44028
+    "stargazers_count": 210311,
+    "open_issues_count": 1398,
+    "forks_count": 44064
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 108872,
-    "open_issues_count": 2136,
-    "forks_count": 24355
+    "stargazers_count": 109010,
+    "open_issues_count": 2145,
+    "forks_count": 24367
   },
   {
     "full_name": "remix-run/react-router",
-    "stargazers_count": 50640,
-    "open_issues_count": 41,
-    "forks_count": 10091
+    "stargazers_count": 50662,
+    "open_issues_count": 40,
+    "forks_count": 10100
   },
   {
     "full_name": "vercel-labs/nextgram",
-    "stargazers_count": 395,
-    "open_issues_count": 2,
-    "forks_count": 80
+    "stargazers_count": 400,
+    "open_issues_count": 3,
+    "forks_count": 82
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 885,
     "open_issues_count": 0,
-    "forks_count": 665
+    "forks_count": 670
   }
 ]
