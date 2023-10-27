@@ -7,31 +7,31 @@
   },
   {
     "full_name": "albingroen/react-cmdk",
-    "stargazers_count": 904,
+    "stargazers_count": 910,
     "open_issues_count": 12,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "inversify/InversifyJS",
-    "stargazers_count": 10352,
+    "stargazers_count": 10367,
     "open_issues_count": 273,
-    "forks_count": 707
+    "forks_count": 706
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 5261,
-    "open_issues_count": 124,
-    "forks_count": 263
+    "stargazers_count": 5348,
+    "open_issues_count": 104,
+    "forks_count": 267
   },
   {
     "full_name": "nkbt/react-copy-to-clipboard",
-    "stargazers_count": 2266,
+    "stargazers_count": 2268,
     "open_issues_count": 20,
     "forks_count": 128
   },
   {
     "full_name": "zenorocha/clipboard.js",
-    "stargazers_count": 33517,
+    "stargazers_count": 33526,
     "open_issues_count": 8,
     "forks_count": 4116
   },
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "webpro/knip",
-    "stargazers_count": 3760,
-    "open_issues_count": 14,
+    "stargazers_count": 3786,
+    "open_issues_count": 22,
     "forks_count": 57
   },
   {
     "full_name": "apollographql/apollo-client-nextjs",
-    "stargazers_count": 205,
-    "open_issues_count": 36,
+    "stargazers_count": 208,
+    "open_issues_count": 35,
     "forks_count": 16
   },
   {
@@ -67,31 +67,31 @@
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 17899,
-    "open_issues_count": 1932,
-    "forks_count": 988
+    "stargazers_count": 17943,
+    "open_issues_count": 2010,
+    "forks_count": 992
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 30375,
-    "open_issues_count": 371,
-    "forks_count": 3234
+    "stargazers_count": 30515,
+    "open_issues_count": 362,
+    "forks_count": 3299
   },
   {
     "full_name": "woowacourse/tecoble",
-    "stargazers_count": 469,
+    "stargazers_count": 471,
     "open_issues_count": 77,
     "forks_count": 48
   },
   {
     "full_name": "daangn/plantae",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "vercel/react-tweet",
-    "stargazers_count": 1054,
+    "stargazers_count": 1061,
     "open_issues_count": 15,
     "forks_count": 57
   },
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 274028,
+    "stargazers_count": 274825,
     "open_issues_count": 49,
-    "forks_count": 26604
+    "forks_count": 26640
   },
   {
     "full_name": "mehdihadeli/awesome-software-architecture",
-    "stargazers_count": 2395,
+    "stargazers_count": 2574,
     "open_issues_count": 6,
-    "forks_count": 205
+    "forks_count": 210
   },
   {
     "full_name": "LappleApple/awesome-leading-and-managing",
-    "stargazers_count": 7233,
+    "stargazers_count": 7237,
     "open_issues_count": 2,
-    "forks_count": 612
+    "forks_count": 613
   },
   {
     "full_name": "DioxusLabs/dioxus",
-    "stargazers_count": 14334,
-    "open_issues_count": 186,
-    "forks_count": 466
+    "stargazers_count": 14360,
+    "open_issues_count": 189,
+    "forks_count": 469
   },
   {
     "full_name": "jherr/rsc-use",
@@ -133,49 +133,49 @@
   },
   {
     "full_name": "vantezzen/auto-form",
-    "stargazers_count": 1301,
+    "stargazers_count": 1315,
     "open_issues_count": 10,
     "forks_count": 35
   },
   {
     "full_name": "lucia-auth/lucia",
-    "stargazers_count": 3910,
+    "stargazers_count": 3956,
     "open_issues_count": 36,
     "forks_count": 323
   },
   {
     "full_name": "video-dev/hls.js",
-    "stargazers_count": 13475,
-    "open_issues_count": 176,
-    "forks_count": 2524
+    "stargazers_count": 13490,
+    "open_issues_count": 179,
+    "forks_count": 2525
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 7817,
-    "open_issues_count": 103,
-    "forks_count": 213
+    "stargazers_count": 7927,
+    "open_issues_count": 101,
+    "forks_count": 217
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 14277,
-    "open_issues_count": 531,
+    "stargazers_count": 14360,
+    "open_issues_count": 547,
     "forks_count": 290
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 2874,
-    "open_issues_count": 7,
-    "forks_count": 153
+    "stargazers_count": 2879,
+    "open_issues_count": 6,
+    "forks_count": 152
   },
   {
     "full_name": "egoist/tsup",
-    "stargazers_count": 6818,
+    "stargazers_count": 6847,
     "open_issues_count": 246,
     "forks_count": 188
   },
   {
     "full_name": "velopert/velog-server",
-    "stargazers_count": 333,
+    "stargazers_count": 334,
     "open_issues_count": 63,
     "forks_count": 48
   }
