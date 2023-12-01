@@ -1,20 +1,20 @@
 [
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 94596,
-    "open_issues_count": 1595,
-    "forks_count": 9533
+    "stargazers_count": 94798,
+    "open_issues_count": 1597,
+    "forks_count": 9546
   },
   {
     "full_name": "keyvanakbary/learning-notes",
-    "stargazers_count": 3910,
+    "stargazers_count": 3922,
     "open_issues_count": 14,
-    "forks_count": 905
+    "forks_count": 907
   },
   {
     "full_name": "davidjerleke/embla-carousel",
-    "stargazers_count": 3749,
-    "open_issues_count": 15,
+    "stargazers_count": 3762,
+    "open_issues_count": 16,
     "forks_count": 125
   },
   {
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "albingroen/react-cmdk",
-    "stargazers_count": 925,
+    "stargazers_count": 927,
     "open_issues_count": 13,
     "forks_count": 31
   },
   {
     "full_name": "inversify/InversifyJS",
-    "stargazers_count": 10460,
+    "stargazers_count": 10466,
     "open_issues_count": 274,
-    "forks_count": 706
+    "forks_count": 707
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 5863,
+    "stargazers_count": 5897,
     "open_issues_count": 95,
-    "forks_count": 315
+    "forks_count": 318
   },
   {
     "full_name": "nkbt/react-copy-to-clipboard",
@@ -49,26 +49,26 @@
   },
   {
     "full_name": "zenorocha/clipboard.js",
-    "stargazers_count": 33571,
+    "stargazers_count": 33577,
     "open_issues_count": 9,
     "forks_count": 4122
   },
   {
     "full_name": "joshfarrant/shortcuts-js",
-    "stargazers_count": 1624,
+    "stargazers_count": 1625,
     "open_issues_count": 61,
     "forks_count": 94
   },
   {
     "full_name": "webpro/knip",
-    "stargazers_count": 4144,
-    "open_issues_count": 27,
-    "forks_count": 62
+    "stargazers_count": 4269,
+    "open_issues_count": 22,
+    "forks_count": 64
   },
   {
     "full_name": "apollographql/apollo-client-nextjs",
-    "stargazers_count": 231,
-    "open_issues_count": 45,
+    "stargazers_count": 233,
+    "open_issues_count": 48,
     "forks_count": 18
   },
   {
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 18288,
-    "open_issues_count": 2015,
+    "stargazers_count": 18326,
+    "open_issues_count": 2028,
     "forks_count": 1003
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 31094,
-    "open_issues_count": 349,
-    "forks_count": 3379
+    "stargazers_count": 31160,
+    "open_issues_count": 357,
+    "forks_count": 3376
   },
   {
     "full_name": "woowacourse/tecoble",
-    "stargazers_count": 476,
+    "stargazers_count": 477,
     "open_issues_count": 73,
     "forks_count": 48
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "vercel/react-tweet",
-    "stargazers_count": 1078,
-    "open_issues_count": 18,
-    "forks_count": 60
+    "stargazers_count": 1079,
+    "open_issues_count": 21,
+    "forks_count": 61
   },
   {
     "full_name": "AlaaAttya/software-architect-roadmap",
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 279133,
+    "stargazers_count": 279498,
     "open_issues_count": 54,
-    "forks_count": 26766
+    "forks_count": 26787
   },
   {
     "full_name": "mehdihadeli/awesome-software-architecture",
-    "stargazers_count": 2756,
+    "stargazers_count": 2771,
     "open_issues_count": 6,
-    "forks_count": 221
+    "forks_count": 222
   },
   {
     "full_name": "LappleApple/awesome-leading-and-managing",
-    "stargazers_count": 7286,
+    "stargazers_count": 7293,
     "open_issues_count": 2,
     "forks_count": 615
   },
   {
     "full_name": "DioxusLabs/dioxus",
-    "stargazers_count": 14771,
-    "open_issues_count": 219,
-    "forks_count": 486
+    "stargazers_count": 14803,
+    "open_issues_count": 220,
+    "forks_count": 487
   },
   {
     "full_name": "jherr/rsc-use",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "vantezzen/auto-form",
-    "stargazers_count": 1385,
-    "open_issues_count": 14,
-    "forks_count": 43
+    "stargazers_count": 1389,
+    "open_issues_count": 16,
+    "forks_count": 44
   },
   {
     "full_name": "lucia-auth/lucia",
-    "stargazers_count": 4271,
-    "open_issues_count": 22,
-    "forks_count": 343
+    "stargazers_count": 4307,
+    "open_issues_count": 25,
+    "forks_count": 344
   },
   {
     "full_name": "video-dev/hls.js",
-    "stargazers_count": 13587,
-    "open_issues_count": 172,
-    "forks_count": 2533
+    "stargazers_count": 13593,
+    "open_issues_count": 169,
+    "forks_count": 2535
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 8872,
-    "open_issues_count": 116,
-    "forks_count": 239
+    "stargazers_count": 8946,
+    "open_issues_count": 114,
+    "forks_count": 242
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 15170,
-    "open_issues_count": 592,
+    "stargazers_count": 15224,
+    "open_issues_count": 594,
     "forks_count": 317
   }
 ]
