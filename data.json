@@ -1,116 +1,116 @@
 [
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 26360,
-    "open_issues_count": 222,
-    "forks_count": 2239
+    "stargazers_count": 26420,
+    "open_issues_count": 218,
+    "forks_count": 2245
   },
   {
     "full_name": "millsp/ts-toolbelt",
-    "stargazers_count": 6272,
+    "stargazers_count": 6287,
     "open_issues_count": 69,
     "forks_count": 150
   },
   {
     "full_name": "postcss/postcss",
-    "stargazers_count": 28052,
-    "open_issues_count": 19,
-    "forks_count": 1612
+    "stargazers_count": 28056,
+    "open_issues_count": 20,
+    "forks_count": 1621
   },
   {
     "full_name": "jestjs/jest",
-    "stargazers_count": 43263,
-    "open_issues_count": 395,
-    "forks_count": 6597
+    "stargazers_count": 43266,
+    "open_issues_count": 399,
+    "forks_count": 6601
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 23909,
-    "open_issues_count": 106,
-    "forks_count": 4585
+    "stargazers_count": 23918,
+    "open_issues_count": 103,
+    "forks_count": 4586
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 45184,
-    "open_issues_count": 883,
-    "forks_count": 2290
+    "stargazers_count": 45198,
+    "open_issues_count": 887,
+    "forks_count": 2291
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 4099,
-    "open_issues_count": 59,
-    "forks_count": 347
+    "stargazers_count": 4124,
+    "open_issues_count": 63,
+    "forks_count": 348
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 38207,
-    "open_issues_count": 50,
-    "forks_count": 2561
+    "stargazers_count": 38265,
+    "open_issues_count": 52,
+    "forks_count": 2562
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 81631,
-    "open_issues_count": 1799,
-    "forks_count": 9040
+    "stargazers_count": 81696,
+    "open_issues_count": 1793,
+    "forks_count": 9050
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 75751,
-    "open_issues_count": 23,
-    "forks_count": 3987
+    "stargazers_count": 75806,
+    "open_issues_count": 24,
+    "forks_count": 3998
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 14295,
-    "open_issues_count": 68,
-    "forks_count": 441
+    "stargazers_count": 14324,
+    "open_issues_count": 63,
+    "forks_count": 442
   },
   {
     "full_name": "petyosi/react-virtuoso",
-    "stargazers_count": 4435,
+    "stargazers_count": 4445,
     "open_issues_count": 33,
-    "forks_count": 275
+    "forks_count": 274
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 38531,
-    "open_issues_count": 18,
-    "forks_count": 1943
+    "stargazers_count": 38598,
+    "open_issues_count": 26,
+    "forks_count": 1950
   },
   {
     "full_name": "immerjs/immer",
-    "stargazers_count": 26536,
+    "stargazers_count": 26557,
     "open_issues_count": 49,
-    "forks_count": 876
+    "forks_count": 877
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 217971,
-    "open_issues_count": 1597,
-    "forks_count": 45976
+    "stargazers_count": 218113,
+    "open_issues_count": 1601,
+    "forks_count": 46007
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 117337,
-    "open_issues_count": 2914,
-    "forks_count": 25582
+    "stargazers_count": 117614,
+    "open_issues_count": 2937,
+    "forks_count": 25619
   },
   {
     "full_name": "remix-run/react-router",
-    "stargazers_count": 51546,
-    "open_issues_count": 54,
-    "forks_count": 10202
+    "stargazers_count": 51565,
+    "open_issues_count": 55,
+    "forks_count": 10203
   },
   {
     "full_name": "vercel/nextgram",
-    "stargazers_count": 642,
+    "stargazers_count": 646,
     "open_issues_count": 0,
-    "forks_count": 155
+    "forks_count": 157
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 903,
+    "stargazers_count": 905,
     "open_issues_count": 0,
-    "forks_count": 834
+    "forks_count": 836
   }
 ]
