@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "dsherret/ts-morph",
+    "stargazers_count": 4424,
+    "open_issues_count": 244,
+    "forks_count": 189
+  },
+  {
+    "full_name": "mlegenhausen/fetch-intercept",
+    "stargazers_count": 385,
+    "open_issues_count": 38,
+    "forks_count": 49
+  },
+  {
     "full_name": "Dschungelabenteuer/vite-plugin-entry-shaking",
     "stargazers_count": 65,
     "open_issues_count": 9,
@@ -7,8 +19,8 @@
   },
   {
     "full_name": "antfu/vscode-file-nesting-config",
-    "stargazers_count": 2141,
-    "open_issues_count": 14,
+    "stargazers_count": 2142,
+    "open_issues_count": 15,
     "forks_count": 127
   },
   {
@@ -25,79 +37,79 @@
   },
   {
     "full_name": "Everduin94/better-commits",
-    "stargazers_count": 1650,
+    "stargazers_count": 1658,
     "open_issues_count": 4,
     "forks_count": 55
   },
   {
     "full_name": "udecode/plate",
-    "stargazers_count": 6965,
+    "stargazers_count": 7006,
     "open_issues_count": 84,
-    "forks_count": 516
+    "forks_count": 519
   },
   {
     "full_name": "TanStack/config",
-    "stargazers_count": 126,
+    "stargazers_count": 127,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "Brooooooklyn/canvas",
-    "stargazers_count": 1501,
+    "stargazers_count": 1503,
     "open_issues_count": 63,
     "forks_count": 69
   },
   {
     "full_name": "unifiedjs/unified",
-    "stargazers_count": 4158,
+    "stargazers_count": 4161,
     "open_issues_count": 1,
     "forks_count": 120
   },
   {
     "full_name": "movie-web/movie-web",
-    "stargazers_count": 18114,
-    "open_issues_count": 97,
-    "forks_count": 1835
+    "stargazers_count": 18195,
+    "open_issues_count": 100,
+    "forks_count": 1851
   },
   {
     "full_name": "oazapfts/oazapfts",
-    "stargazers_count": 435,
-    "open_issues_count": 27,
-    "forks_count": 71
+    "stargazers_count": 438,
+    "open_issues_count": 29,
+    "forks_count": 73
   },
   {
     "full_name": "zoubingwu/msw-auto-mock",
-    "stargazers_count": 183,
+    "stargazers_count": 185,
     "open_issues_count": 9,
     "forks_count": 47
   },
   {
     "full_name": "hannoeru/vite-plugin-pages",
-    "stargazers_count": 1672,
+    "stargazers_count": 1674,
     "open_issues_count": 39,
     "forks_count": 122
   },
   {
     "full_name": "facebook/stylex",
-    "stargazers_count": 7576,
-    "open_issues_count": 35,
+    "stargazers_count": 7606,
+    "open_issues_count": 34,
     "forks_count": 340
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 97773,
-    "open_issues_count": 1696,
-    "forks_count": 9809
+    "stargazers_count": 97917,
+    "open_issues_count": 1694,
+    "forks_count": 9816
   },
   {
     "full_name": "keyvanakbary/learning-notes",
-    "stargazers_count": 4461,
+    "stargazers_count": 4472,
     "open_issues_count": 15,
-    "forks_count": 1016
+    "forks_count": 1017
   },
   {
     "full_name": "davidjerleke/embla-carousel",
-    "stargazers_count": 4413,
+    "stargazers_count": 4427,
     "open_issues_count": 5,
     "forks_count": 142
   },
@@ -109,33 +121,33 @@
   },
   {
     "full_name": "albingroen/react-cmdk",
-    "stargazers_count": 966,
+    "stargazers_count": 967,
     "open_issues_count": 11,
     "forks_count": 36
   },
   {
     "full_name": "inversify/InversifyJS",
-    "stargazers_count": 10639,
+    "stargazers_count": 10643,
     "open_issues_count": 277,
     "forks_count": 712
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 6522,
-    "open_issues_count": 96,
-    "forks_count": 365
+    "stargazers_count": 6536,
+    "open_issues_count": 104,
+    "forks_count": 367
   },
   {
     "full_name": "nkbt/react-copy-to-clipboard",
-    "stargazers_count": 2289,
+    "stargazers_count": 2290,
     "open_issues_count": 20,
-    "forks_count": 128
+    "forks_count": 129
   },
   {
     "full_name": "zenorocha/clipboard.js",
-    "stargazers_count": 33697,
+    "stargazers_count": 33703,
     "open_issues_count": 15,
-    "forks_count": 4131
+    "forks_count": 4132
   },
   {
     "full_name": "joshfarrant/shortcuts-js",
@@ -145,13 +157,13 @@
   },
   {
     "full_name": "webpro/knip",
-    "stargazers_count": 5007,
-    "open_issues_count": 28,
-    "forks_count": 91
+    "stargazers_count": 5040,
+    "open_issues_count": 30,
+    "forks_count": 93
   },
   {
     "full_name": "apollographql/apollo-client-nextjs",
-    "stargazers_count": 300,
+    "stargazers_count": 306,
     "open_issues_count": 53,
     "forks_count": 20
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "pulumi/pulumi",
-    "stargazers_count": 18880,
-    "open_issues_count": 2077,
-    "forks_count": 1034
-  },
-  {
-    "full_name": "novuhq/novu",
-    "stargazers_count": 31745,
-    "open_issues_count": 343,
-    "forks_count": 3369
   }
 ]
