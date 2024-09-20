@@ -7,31 +7,31 @@
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 29492,
-    "open_issues_count": 9,
-    "forks_count": 2247
+    "stargazers_count": 29517,
+    "open_issues_count": 8,
+    "forks_count": 2246
   },
   {
     "full_name": "toss/overlay-kit",
-    "stargazers_count": 261,
+    "stargazers_count": 266,
     "open_issues_count": 6,
     "forks_count": 25
   },
   {
     "full_name": "wix-incubator/obsidian",
     "stargazers_count": 91,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 1
   },
   {
     "full_name": "sverweij/dependency-cruiser",
-    "stargazers_count": 5158,
+    "stargazers_count": 5163,
     "open_issues_count": 24,
-    "forks_count": 249
+    "forks_count": 247
   },
   {
     "full_name": "jeffijoe/awilix",
-    "stargazers_count": 3529,
+    "stargazers_count": 3532,
     "open_issues_count": 2,
     "forks_count": 134
   },
@@ -43,63 +43,63 @@
   },
   {
     "full_name": "microsoft/kiota",
-    "stargazers_count": 2830,
-    "open_issues_count": 170,
+    "stargazers_count": 2836,
+    "open_issues_count": 172,
     "forks_count": 194
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 61849,
-    "open_issues_count": 32,
-    "forks_count": 31510
+    "stargazers_count": 61916,
+    "open_issues_count": 12,
+    "forks_count": 31584
   },
   {
     "full_name": "magiclabs/magic-js",
-    "stargazers_count": 457,
+    "stargazers_count": 458,
     "open_issues_count": 49,
     "forks_count": 85
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 87247,
-    "open_issues_count": 11,
-    "forks_count": 9482
+    "stargazers_count": 88000,
+    "open_issues_count": 14,
+    "forks_count": 9539
   },
   {
     "full_name": "kucherenko/jscpd",
-    "stargazers_count": 4661,
+    "stargazers_count": 4664,
     "open_issues_count": 64,
     "forks_count": 205
   },
   {
     "full_name": "255kb/stack-on-a-budget",
-    "stargazers_count": 12086,
+    "stargazers_count": 12092,
     "open_issues_count": 2,
     "forks_count": 528
   },
   {
     "full_name": "toss/es-toolkit",
-    "stargazers_count": 6259,
-    "open_issues_count": 45,
-    "forks_count": 263
+    "stargazers_count": 6282,
+    "open_issues_count": 52,
+    "forks_count": 269
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 110663,
+    "stargazers_count": 110774,
     "open_issues_count": 294,
-    "forks_count": 15058
+    "forks_count": 15079
   },
   {
     "full_name": "FrontendMasters/front-end-handbook-2024",
-    "stargazers_count": 1143,
+    "stargazers_count": 1146,
     "open_issues_count": 7,
     "forks_count": 76
   },
   {
     "full_name": "nfl/react-helmet",
-    "stargazers_count": 17334,
+    "stargazers_count": 17332,
     "open_issues_count": 222,
-    "forks_count": 661
+    "forks_count": 659
   },
   {
     "full_name": "cometkim/unicode-segmenter",
@@ -109,37 +109,37 @@
   },
   {
     "full_name": "eBay/nice-modal-react",
-    "stargazers_count": 2022,
+    "stargazers_count": 2023,
     "open_issues_count": 25,
-    "forks_count": 118
+    "forks_count": 117
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1442,
-    "open_issues_count": 12,
+    "stargazers_count": 1453,
+    "open_issues_count": 13,
     "forks_count": 38
   },
   {
     "full_name": "e2b-dev/awesome-ai-agents",
-    "stargazers_count": 9691,
+    "stargazers_count": 9738,
     "open_issues_count": 19,
-    "forks_count": 702
+    "forks_count": 707
   },
   {
     "full_name": "SimeonGriggs/sanity-remix-template",
-    "stargazers_count": 157,
+    "stargazers_count": 159,
     "open_issues_count": 4,
     "forks_count": 33
   },
   {
     "full_name": "tummychow/git-absorb",
-    "stargazers_count": 3388,
+    "stargazers_count": 3390,
     "open_issues_count": 26,
     "forks_count": 58
   },
   {
     "full_name": "dsherret/ts-morph",
-    "stargazers_count": 4875,
+    "stargazers_count": 4881,
     "open_issues_count": 270,
     "forks_count": 194
   },
@@ -152,12 +152,12 @@
   {
     "full_name": "Dschungelabenteuer/vite-plugin-entry-shaking",
     "stargazers_count": 118,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 8
   },
   {
     "full_name": "antfu/vscode-file-nesting-config",
-    "stargazers_count": 2957,
+    "stargazers_count": 2973,
     "open_issues_count": 17,
     "forks_count": 163
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "juanm4/hexagonal-architecture-frontend",
-    "stargazers_count": 448,
+    "stargazers_count": 449,
     "open_issues_count": 4,
     "forks_count": 63
   },
   {
     "full_name": "Everduin94/better-commits",
-    "stargazers_count": 1949,
+    "stargazers_count": 1955,
     "open_issues_count": 4,
     "forks_count": 69
   }
