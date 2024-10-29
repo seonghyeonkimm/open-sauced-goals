@@ -1,27 +1,27 @@
 [
   {
     "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 53477,
+    "stargazers_count": 53525,
     "open_issues_count": 23,
-    "forks_count": 6660
+    "forks_count": 6661
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 76369,
+    "stargazers_count": 76470,
     "open_issues_count": 157,
-    "forks_count": 6255
+    "forks_count": 6259
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 146886,
+    "stargazers_count": 147258,
     "open_issues_count": 75,
-    "forks_count": 9532
+    "forks_count": 9546
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 200114,
+    "stargazers_count": 200646,
     "open_issues_count": 0,
-    "forks_count": 9618
+    "forks_count": 9627
   },
   {
     "full_name": "maraisr/meros",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "alex-xu-system/bytebytego",
-    "stargazers_count": 2151,
+    "stargazers_count": 2152,
     "open_issues_count": 6,
-    "forks_count": 474
+    "forks_count": 475
   },
   {
     "full_name": "yhatt/jsx-slack",
@@ -49,51 +49,51 @@
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 31663,
-    "open_issues_count": 14,
-    "forks_count": 2337
+    "stargazers_count": 31896,
+    "open_issues_count": 20,
+    "forks_count": 2347
   },
   {
     "full_name": "toss/overlay-kit",
     "stargazers_count": 281,
     "open_issues_count": 7,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "wix-incubator/obsidian",
-    "stargazers_count": 95,
-    "open_issues_count": 18,
-    "forks_count": 1
+    "stargazers_count": 96,
+    "open_issues_count": 20,
+    "forks_count": 2
   },
   {
     "full_name": "sverweij/dependency-cruiser",
-    "stargazers_count": 5248,
-    "open_issues_count": 26,
+    "stargazers_count": 5258,
+    "open_issues_count": 27,
     "forks_count": 250
   },
   {
     "full_name": "jeffijoe/awilix",
-    "stargazers_count": 3575,
+    "stargazers_count": 3576,
     "open_issues_count": 0,
     "forks_count": 135
   },
   {
     "full_name": "getsentry/spotlight",
-    "stargazers_count": 367,
+    "stargazers_count": 368,
     "open_issues_count": 43,
     "forks_count": 11
   },
   {
     "full_name": "microsoft/kiota",
-    "stargazers_count": 2919,
+    "stargazers_count": 2922,
     "open_issues_count": 174,
     "forks_count": 203
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 64449,
-    "open_issues_count": 19,
-    "forks_count": 32761
+    "stargazers_count": 64528,
+    "open_issues_count": 21,
+    "forks_count": 32835
   },
   {
     "full_name": "magiclabs/magic-js",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 89451,
+    "stargazers_count": 89524,
     "open_issues_count": 11,
-    "forks_count": 9689
+    "forks_count": 9695
   },
   {
     "full_name": "kucherenko/jscpd",
-    "stargazers_count": 4700,
+    "stargazers_count": 4702,
     "open_issues_count": 64,
     "forks_count": 203
   },
@@ -117,55 +117,55 @@
     "full_name": "255kb/stack-on-a-budget",
     "stargazers_count": 12126,
     "open_issues_count": 2,
-    "forks_count": 533
+    "forks_count": 534
   },
   {
     "full_name": "toss/es-toolkit",
-    "stargazers_count": 6598,
-    "open_issues_count": 55,
-    "forks_count": 297
+    "stargazers_count": 6626,
+    "open_issues_count": 67,
+    "forks_count": 300
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 111944,
-    "open_issues_count": 296,
-    "forks_count": 15286
+    "stargazers_count": 112065,
+    "open_issues_count": 299,
+    "forks_count": 15299
   },
   {
     "full_name": "FrontendMasters/front-end-handbook-2024",
-    "stargazers_count": 1178,
+    "stargazers_count": 1182,
     "open_issues_count": 7,
     "forks_count": 80
   },
   {
     "full_name": "nfl/react-helmet",
-    "stargazers_count": 17358,
+    "stargazers_count": 17362,
     "open_issues_count": 222,
     "forks_count": 661
   },
   {
     "full_name": "cometkim/unicode-segmenter",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "eBay/nice-modal-react",
-    "stargazers_count": 2063,
+    "stargazers_count": 2066,
     "open_issues_count": 25,
     "forks_count": 119
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1777,
-    "open_issues_count": 11,
+    "stargazers_count": 1784,
+    "open_issues_count": 12,
     "forks_count": 52
   },
   {
     "full_name": "e2b-dev/awesome-ai-agents",
-    "stargazers_count": 10882,
+    "stargazers_count": 10983,
     "open_issues_count": 23,
-    "forks_count": 811
+    "forks_count": 814
   },
   {
     "full_name": "SimeonGriggs/sanity-remix-template",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "tummychow/git-absorb",
-    "stargazers_count": 4634,
+    "stargazers_count": 4641,
     "open_issues_count": 30,
     "forks_count": 71
   }
