@@ -1,21 +1,21 @@
 [
   {
     "full_name": "thiswillbeyourgithub/AnkiAIUtils",
-    "stargazers_count": 580,
-    "open_issues_count": 0,
+    "stargazers_count": 601,
+    "open_issues_count": 2,
     "forks_count": 16
   },
   {
     "full_name": "romboHQ/tailwindcss-motion",
-    "stargazers_count": 2488,
-    "open_issues_count": 12,
-    "forks_count": 23
+    "stargazers_count": 2548,
+    "open_issues_count": 14,
+    "forks_count": 25
   },
   {
     "full_name": "satnaing/shadcn-admin",
-    "stargazers_count": 2618,
+    "stargazers_count": 2688,
     "open_issues_count": 2,
-    "forks_count": 378
+    "forks_count": 384
   },
   {
     "full_name": "Charca/fullsnack",
@@ -27,7 +27,7 @@
     "full_name": "Charca/frontend-architecture-workshop",
     "stargazers_count": 72,
     "open_issues_count": 1,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "browserify/events",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "tsconfig/bases",
-    "stargazers_count": 6516,
+    "stargazers_count": 6522,
     "open_issues_count": 41,
     "forks_count": 244
   },
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 54270,
+    "stargazers_count": 54303,
     "open_issues_count": 23,
-    "forks_count": 6688
+    "forks_count": 6692
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 78591,
+    "stargazers_count": 78675,
     "open_issues_count": 152,
-    "forks_count": 6326
+    "forks_count": 6327
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 154269,
+    "stargazers_count": 154603,
     "open_issues_count": 80,
-    "forks_count": 9812
+    "forks_count": 9840
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 210672,
+    "stargazers_count": 211104,
     "open_issues_count": 0,
-    "forks_count": 9999
+    "forks_count": 10021
   },
   {
     "full_name": "maraisr/meros",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "alex-xu-system/bytebytego",
-    "stargazers_count": 2191,
+    "stargazers_count": 2193,
     "open_issues_count": 7,
     "forks_count": 487
   },
@@ -103,67 +103,67 @@
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 34787,
-    "open_issues_count": 25,
-    "forks_count": 2491
+    "stargazers_count": 34828,
+    "open_issues_count": 20,
+    "forks_count": 2500
   },
   {
     "full_name": "toss/overlay-kit",
     "stargazers_count": 322,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 33
   },
   {
     "full_name": "wix-incubator/obsidian",
-    "stargazers_count": 112,
+    "stargazers_count": 114,
     "open_issues_count": 19,
     "forks_count": 2
   },
   {
     "full_name": "sverweij/dependency-cruiser",
-    "stargazers_count": 5472,
-    "open_issues_count": 29,
+    "stargazers_count": 5474,
+    "open_issues_count": 30,
     "forks_count": 256
   },
   {
     "full_name": "jeffijoe/awilix",
-    "stargazers_count": 3636,
+    "stargazers_count": 3638,
     "open_issues_count": 0,
     "forks_count": 136
   },
   {
     "full_name": "getsentry/spotlight",
-    "stargazers_count": 388,
+    "stargazers_count": 389,
     "open_issues_count": 50,
     "forks_count": 14
   },
   {
     "full_name": "microsoft/kiota",
-    "stargazers_count": 3095,
-    "open_issues_count": 156,
-    "forks_count": 217
+    "stargazers_count": 3104,
+    "open_issues_count": 155,
+    "forks_count": 218
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 66157,
-    "open_issues_count": 11,
-    "forks_count": 34122
+    "stargazers_count": 66240,
+    "open_issues_count": 13,
+    "forks_count": 34249
   },
   {
     "full_name": "magiclabs/magic-js",
     "stargazers_count": 464,
-    "open_issues_count": 52,
+    "open_issues_count": 51,
     "forks_count": 88
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 91629,
+    "stargazers_count": 91678,
     "open_issues_count": 11,
-    "forks_count": 9860
+    "forks_count": 9862
   },
   {
     "full_name": "kucherenko/jscpd",
-    "stargazers_count": 4748,
+    "stargazers_count": 4751,
     "open_issues_count": 71,
     "forks_count": 208
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "toss/es-toolkit",
-    "stargazers_count": 7439,
-    "open_issues_count": 68,
-    "forks_count": 349
+    "stargazers_count": 7469,
+    "open_issues_count": 70,
+    "forks_count": 351
   }
 ]
