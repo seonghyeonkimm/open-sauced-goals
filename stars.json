@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "stephenh/ts-proto",
+    "stargazers_count": 2295,
+    "open_issues_count": 150,
+    "forks_count": 353
+  },
+  {
+    "full_name": "GLips/Figma-Context-MCP",
+    "stargazers_count": 1093,
+    "open_issues_count": 6,
+    "forks_count": 91
+  },
+  {
     "full_name": "daangn/graplix",
     "stargazers_count": 64,
     "open_issues_count": 0,
@@ -7,51 +19,51 @@
   },
   {
     "full_name": "aidenybai/react-scan",
-    "stargazers_count": 16465,
+    "stargazers_count": 16624,
     "open_issues_count": 106,
-    "forks_count": 234
+    "forks_count": 237
   },
   {
     "full_name": "jaredh159/tailwind-react-native-classnames",
-    "stargazers_count": 2182,
-    "open_issues_count": 10,
+    "stargazers_count": 2183,
+    "open_issues_count": 11,
     "forks_count": 85
   },
   {
     "full_name": "taskforcesh/bullmq",
-    "stargazers_count": 6653,
-    "open_issues_count": 287,
-    "forks_count": 443
+    "stargazers_count": 6673,
+    "open_issues_count": 290,
+    "forks_count": 446
   },
   {
     "full_name": "toss/frontend-fundamentals",
-    "stargazers_count": 1243,
+    "stargazers_count": 1256,
     "open_issues_count": 1,
-    "forks_count": 80
+    "forks_count": 79
   },
   {
     "full_name": "toss/use-funnel",
-    "stargazers_count": 322,
+    "stargazers_count": 328,
     "open_issues_count": 9,
     "forks_count": 47
   },
   {
     "full_name": "thiswillbeyourgithub/AnkiAIUtils",
-    "stargazers_count": 704,
+    "stargazers_count": 706,
     "open_issues_count": 3,
     "forks_count": 23
   },
   {
     "full_name": "romboHQ/tailwindcss-motion",
-    "stargazers_count": 2881,
+    "stargazers_count": 2884,
     "open_issues_count": 27,
     "forks_count": 31
   },
   {
     "full_name": "satnaing/shadcn-admin",
-    "stargazers_count": 4007,
-    "open_issues_count": 7,
-    "forks_count": 592
+    "stargazers_count": 4068,
+    "open_issues_count": 9,
+    "forks_count": 600
   },
   {
     "full_name": "Charca/fullsnack",
@@ -61,21 +73,21 @@
   },
   {
     "full_name": "Charca/frontend-architecture-workshop",
-    "stargazers_count": 82,
+    "stargazers_count": 85,
     "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "browserify/events",
-    "stargazers_count": 1392,
+    "stargazers_count": 1393,
     "open_issues_count": 11,
-    "forks_count": 175
+    "forks_count": 174
   },
   {
     "full_name": "tsconfig/bases",
-    "stargazers_count": 6751,
+    "stargazers_count": 6770,
     "open_issues_count": 47,
-    "forks_count": 258
+    "forks_count": 259
   },
   {
     "full_name": "wzhudev/redi-starter",
@@ -85,33 +97,33 @@
   },
   {
     "full_name": "wzhudev/redi",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 54991,
-    "open_issues_count": 23,
-    "forks_count": 6728
+    "stargazers_count": 55032,
+    "open_issues_count": 25,
+    "forks_count": 6727
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 80575,
-    "open_issues_count": 149,
-    "forks_count": 6426
+    "stargazers_count": 80736,
+    "open_issues_count": 150,
+    "forks_count": 6431
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 159903,
+    "stargazers_count": 160219,
     "open_issues_count": 87,
-    "forks_count": 10070
+    "forks_count": 10092
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 219398,
+    "stargazers_count": 219953,
     "open_issues_count": 0,
-    "forks_count": 10322
+    "forks_count": 10345
   },
   {
     "full_name": "maraisr/meros",
@@ -127,7 +139,7 @@
   },
   {
     "full_name": "alex-xu-system/bytebytego",
-    "stargazers_count": 2228,
+    "stargazers_count": 2230,
     "open_issues_count": 7,
     "forks_count": 499
   },
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 41987,
-    "open_issues_count": 29,
-    "forks_count": 2988
+    "stargazers_count": 42085,
+    "open_issues_count": 31,
+    "forks_count": 2996
   },
   {
     "full_name": "toss/overlay-kit",
-    "stargazers_count": 359,
+    "stargazers_count": 361,
     "open_issues_count": 9,
-    "forks_count": 39
+    "forks_count": 38
   },
   {
     "full_name": "wix-incubator/obsidian",
-    "stargazers_count": 117,
-    "open_issues_count": 15,
+    "stargazers_count": 118,
+    "open_issues_count": 17,
     "forks_count": 2
   },
   {
     "full_name": "sverweij/dependency-cruiser",
-    "stargazers_count": 5634,
+    "stargazers_count": 5642,
     "open_issues_count": 31,
     "forks_count": 260
   },
   {
     "full_name": "jeffijoe/awilix",
-    "stargazers_count": 3700,
+    "stargazers_count": 3701,
     "open_issues_count": 1,
-    "forks_count": 136
-  },
-  {
-    "full_name": "getsentry/spotlight",
-    "stargazers_count": 418,
-    "open_issues_count": 58,
-    "forks_count": 19
-  },
-  {
-    "full_name": "microsoft/kiota",
-    "stargazers_count": 3229,
-    "open_issues_count": 179,
-    "forks_count": 237
+    "forks_count": 135
   }
 ]
