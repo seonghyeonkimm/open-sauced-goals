@@ -1,33 +1,33 @@
 [
   {
     "full_name": "fastrepl/hyprnote",
-    "stargazers_count": 1670,
-    "open_issues_count": 67,
-    "forks_count": 77
+    "stargazers_count": 1844,
+    "open_issues_count": 71,
+    "forks_count": 89
   },
   {
     "full_name": "openai/codex",
-    "stargazers_count": 21156,
-    "open_issues_count": 199,
-    "forks_count": 2032
+    "stargazers_count": 21465,
+    "open_issues_count": 234,
+    "forks_count": 2089
   },
   {
     "full_name": "sonnylazuardi/cursor-talk-to-figma-mcp",
-    "stargazers_count": 3458,
-    "open_issues_count": 32,
-    "forks_count": 323
+    "stargazers_count": 3544,
+    "open_issues_count": 31,
+    "forks_count": 332
   },
   {
     "full_name": "stephenh/ts-proto",
-    "stargazers_count": 2342,
+    "stargazers_count": 2344,
     "open_issues_count": 162,
     "forks_count": 358
   },
   {
     "full_name": "GLips/Figma-Context-MCP",
-    "stargazers_count": 6203,
-    "open_issues_count": 21,
-    "forks_count": 494
+    "stargazers_count": 6337,
+    "open_issues_count": 19,
+    "forks_count": 503
   },
   {
     "full_name": "daangn/graplix",
@@ -37,51 +37,51 @@
   },
   {
     "full_name": "aidenybai/react-scan",
-    "stargazers_count": 17977,
-    "open_issues_count": 125,
-    "forks_count": 275
+    "stargazers_count": 18058,
+    "open_issues_count": 123,
+    "forks_count": 277
   },
   {
     "full_name": "jaredh159/tailwind-react-native-classnames",
-    "stargazers_count": 2219,
-    "open_issues_count": 13,
+    "stargazers_count": 2221,
+    "open_issues_count": 15,
     "forks_count": 89
   },
   {
     "full_name": "taskforcesh/bullmq",
-    "stargazers_count": 6905,
-    "open_issues_count": 311,
-    "forks_count": 459
+    "stargazers_count": 6921,
+    "open_issues_count": 300,
+    "forks_count": 460
   },
   {
     "full_name": "toss/frontend-fundamentals",
-    "stargazers_count": 1435,
+    "stargazers_count": 1441,
     "open_issues_count": 9,
-    "forks_count": 96
+    "forks_count": 98
   },
   {
     "full_name": "toss/use-funnel",
-    "stargazers_count": 372,
+    "stargazers_count": 375,
     "open_issues_count": 8,
-    "forks_count": 52
+    "forks_count": 51
   },
   {
     "full_name": "thiswillbeyourgithub/AnkiAIUtils",
-    "stargazers_count": 729,
+    "stargazers_count": 730,
     "open_issues_count": 3,
     "forks_count": 25
   },
   {
     "full_name": "romboHQ/tailwindcss-motion",
-    "stargazers_count": 2992,
-    "open_issues_count": 29,
-    "forks_count": 33
+    "stargazers_count": 3012,
+    "open_issues_count": 30,
+    "forks_count": 34
   },
   {
     "full_name": "satnaing/shadcn-admin",
-    "stargazers_count": 7448,
+    "stargazers_count": 7534,
     "open_issues_count": 3,
-    "forks_count": 953
+    "forks_count": 977
   },
   {
     "full_name": "Charca/fullsnack",
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "Charca/frontend-architecture-workshop",
-    "stargazers_count": 96,
+    "stargazers_count": 98,
     "open_issues_count": 1,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "browserify/events",
-    "stargazers_count": 1395,
+    "stargazers_count": 1396,
     "open_issues_count": 11,
     "forks_count": 174
   },
   {
     "full_name": "tsconfig/bases",
-    "stargazers_count": 6914,
+    "stargazers_count": 6921,
     "open_issues_count": 44,
     "forks_count": 261
   },
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 55666,
+    "stargazers_count": 55718,
     "open_issues_count": 27,
-    "forks_count": 6746
+    "forks_count": 6749
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 82476,
+    "stargazers_count": 82614,
     "open_issues_count": 150,
-    "forks_count": 6496
+    "forks_count": 6503
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 167876,
-    "open_issues_count": 89,
-    "forks_count": 10516
+    "stargazers_count": 168319,
+    "open_issues_count": 90,
+    "forks_count": 10540
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 226842,
+    "stargazers_count": 227332,
     "open_issues_count": 0,
-    "forks_count": 10596
+    "forks_count": 10613
   },
   {
     "full_name": "maraisr/meros",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "alex-xu-system/bytebytego",
-    "stargazers_count": 2268,
+    "stargazers_count": 2272,
     "open_issues_count": 7,
     "forks_count": 508
   },
   {
     "full_name": "yhatt/jsx-slack",
-    "stargazers_count": 478,
+    "stargazers_count": 479,
     "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 43809,
+    "stargazers_count": 43964,
     "open_issues_count": 47,
-    "forks_count": 3163
+    "forks_count": 3178
   },
   {
     "full_name": "toss/overlay-kit",
-    "stargazers_count": 480,
-    "open_issues_count": 12,
-    "forks_count": 46
+    "stargazers_count": 481,
+    "open_issues_count": 13,
+    "forks_count": 47
   }
 ]
