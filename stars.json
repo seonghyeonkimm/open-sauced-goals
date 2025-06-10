@@ -1,51 +1,51 @@
 [
   {
     "full_name": "preactjs/preact",
-    "stargazers_count": 37652,
-    "open_issues_count": 157,
+    "stargazers_count": 37672,
+    "open_issues_count": 148,
     "forks_count": 2001
   },
   {
     "full_name": "TanStack/db",
-    "stargazers_count": 2453,
-    "open_issues_count": 48,
-    "forks_count": 34
+    "stargazers_count": 2474,
+    "open_issues_count": 50,
+    "forks_count": 37
   },
   {
     "full_name": "joeferner/redis-commander",
-    "stargazers_count": 3768,
+    "stargazers_count": 3774,
     "open_issues_count": 64,
     "forks_count": 481
   },
   {
     "full_name": "fastrepl/hyprnote",
-    "stargazers_count": 2369,
+    "stargazers_count": 2394,
     "open_issues_count": 87,
-    "forks_count": 120
+    "forks_count": 123
   },
   {
     "full_name": "openai/codex",
-    "stargazers_count": 28283,
-    "open_issues_count": 403,
-    "forks_count": 2979
+    "stargazers_count": 28568,
+    "open_issues_count": 451,
+    "forks_count": 3073
   },
   {
     "full_name": "sonnylazuardi/cursor-talk-to-figma-mcp",
-    "stargazers_count": 4175,
-    "open_issues_count": 43,
-    "forks_count": 407
+    "stargazers_count": 4224,
+    "open_issues_count": 45,
+    "forks_count": 410
   },
   {
     "full_name": "stephenh/ts-proto",
-    "stargazers_count": 2382,
-    "open_issues_count": 166,
-    "forks_count": 363
+    "stargazers_count": 2384,
+    "open_issues_count": 165,
+    "forks_count": 364
   },
   {
     "full_name": "GLips/Figma-Context-MCP",
-    "stargazers_count": 7732,
-    "open_issues_count": 28,
-    "forks_count": 635
+    "stargazers_count": 7980,
+    "open_issues_count": 27,
+    "forks_count": 648
   },
   {
     "full_name": "daangn/graplix",
@@ -55,51 +55,51 @@
   },
   {
     "full_name": "aidenybai/react-scan",
-    "stargazers_count": 18542,
-    "open_issues_count": 127,
-    "forks_count": 291
+    "stargazers_count": 18586,
+    "open_issues_count": 130,
+    "forks_count": 293
   },
   {
     "full_name": "jaredh159/tailwind-react-native-classnames",
-    "stargazers_count": 2247,
-    "open_issues_count": 13,
+    "stargazers_count": 2251,
+    "open_issues_count": 14,
     "forks_count": 90
   },
   {
     "full_name": "taskforcesh/bullmq",
-    "stargazers_count": 7055,
-    "open_issues_count": 306,
-    "forks_count": 471
+    "stargazers_count": 7074,
+    "open_issues_count": 309,
+    "forks_count": 473
   },
   {
     "full_name": "toss/frontend-fundamentals",
-    "stargazers_count": 1516,
-    "open_issues_count": 12,
+    "stargazers_count": 1526,
+    "open_issues_count": 8,
     "forks_count": 121
   },
   {
     "full_name": "toss/use-funnel",
-    "stargazers_count": 394,
+    "stargazers_count": 398,
     "open_issues_count": 8,
     "forks_count": 56
   },
   {
     "full_name": "thiswillbeyourgithub/AnkiAIUtils",
-    "stargazers_count": 738,
+    "stargazers_count": 741,
     "open_issues_count": 3,
     "forks_count": 25
   },
   {
     "full_name": "romboHQ/tailwindcss-motion",
     "stargazers_count": 3100,
-    "open_issues_count": 30,
+    "open_issues_count": 31,
     "forks_count": 34
   },
   {
     "full_name": "satnaing/shadcn-admin",
-    "stargazers_count": 8005,
-    "open_issues_count": 9,
-    "forks_count": 1080
+    "stargazers_count": 8045,
+    "open_issues_count": 10,
+    "forks_count": 1088
   },
   {
     "full_name": "Charca/fullsnack",
@@ -109,19 +109,19 @@
   },
   {
     "full_name": "Charca/frontend-architecture-workshop",
-    "stargazers_count": 108,
+    "stargazers_count": 110,
     "open_issues_count": 1,
     "forks_count": 32
   },
   {
     "full_name": "browserify/events",
-    "stargazers_count": 1401,
+    "stargazers_count": 1402,
     "open_issues_count": 11,
     "forks_count": 174
   },
   {
     "full_name": "tsconfig/bases",
-    "stargazers_count": 7001,
+    "stargazers_count": 7006,
     "open_issues_count": 43,
     "forks_count": 262
   },
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 56035,
+    "stargazers_count": 56086,
     "open_issues_count": 28,
-    "forks_count": 6754
+    "forks_count": 6752
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 83581,
-    "open_issues_count": 158,
-    "forks_count": 6537
+    "stargazers_count": 83703,
+    "open_issues_count": 159,
+    "forks_count": 6542
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 172565,
+    "stargazers_count": 172936,
     "open_issues_count": 94,
-    "forks_count": 10784
+    "forks_count": 10810
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 231288,
+    "stargazers_count": 231765,
     "open_issues_count": 0,
-    "forks_count": 10775
+    "forks_count": 10792
   },
   {
     "full_name": "maraisr/meros",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "alex-xu-system/bytebytego",
-    "stargazers_count": 2294,
+    "stargazers_count": 2296,
     "open_issues_count": 7,
     "forks_count": 511
   }
